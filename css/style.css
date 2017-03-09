@@ -1,47 +1,54 @@
 header
 {
-  background-color: white;
-  text-align: right;
-  word-spacing: 12px;
-  font-size: 15px;
-  padding-bottom: 20px;
-  color: black;
+    background-color: white;
+    text-align: right;
+    word-spacing: 12px;
+    font-size: 15px;
+    padding-bottom: 20px;
+    color: black;
 }
+
 section
 {
     background-color: white;
     text-align: center;
     height: 580px;
 }
+
 footer
 {
     word-spacing: 12px;
     padding-top: 15px;
     background-color: #F5F5F5;
 }
+
 img
 {
     height: 90px;
-    margin-top: 150px;
+    margin-top: 170px;
 }
+
 .premier
 {
-  float: right;
+    float: right;
 }
 
-a {
-  color: black;
+a
+{
+    color: black;
 }
 
-input{
-  margin-top: 2,9%;
-  width: 45%;
-  height: 40px;
-  box-shadow: 2px 1px 3px 2px #F5F5F5;
+input
+{
+    margin-top: 2,9%;
+    width: 45%;
+    height: 40px;
+    box-shadow: 2px 1px 3px 2px #F5F5F5;
 }
 
-a.button{
-		background-color: #F5F5F5;
+a.button
+{
+    background-color: #F5F5F5;
 		display:block;
 		color:#555555;
 		font-weight:bold;
@@ -52,7 +59,9 @@ a.button{
 		text-decoration:none;
 		width:191px;
     border-radius: 4px;
-  }
+    display: inline-block;
+    margin-top: 3%;
+}
 
 a.button :hover
 {
