@@ -1,15 +1,40 @@
 header
 {
-  background-color: red;
+  background-color: white;
   text-align: right;
-  word-spacing: 10px;
+  word-spacing: 12px;
   font-size: 15px;
+  padding-bottom: 20px;
+  color: black;
 }
-aside
+section
 {
-    background-color: blue;
+    background-color: white;
+    text-align: center;
+    height: 580px;
 }
 footer
 {
-    background-color: green;
+    word-spacing: 12px;
+    padding-top: 15px;
+    background-color: #F5F5F5;
+}
+img
+{
+    height: 90px;
+    margin-top: 150px;
+}
+.premier
+{
+  float: right;
+}
+
+a {
+  color: black;
+}
+
+input{
+  margin-top: 2,9%;
+  width: 45%;
+  height: 40px;
 }
