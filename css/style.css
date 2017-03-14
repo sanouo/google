@@ -1,3 +1,4 @@
+/*start modification of the header */
 header
 {
     background-color: white;
@@ -7,19 +8,16 @@ header
     padding-bottom: 20px;
     color: black;
 }
+/*end modification of the header*/
 
+
+
+/*start modification of the section*/
 section
 {
     background-color: white;
     text-align: center;
     height: 580px;
-}
-
-footer
-{
-    word-spacing: 12px;
-    padding-top: 15px;
-    background-color: #F5F5F5;
 }
 
 img
@@ -28,19 +26,8 @@ img
     margin-top: 170px;
 }
 
-.premier
-{
-    float: right;
-}
-
-a
-{
-    color: black;
-}
-
 input
 {
-    margin-top: 2,9%;
     width: 45%;
     height: 40px;
     box-shadow: 2px 1px 3px 2px #F5F5F5;
@@ -63,7 +50,30 @@ a.button
     margin-top: 3%;
 }
 
+a
+{
+    color: black;
+}
+
+
 a.button :hover
 {
     color: black;
 }
+/*end modification of the section*/
+
+
+
+/*start modification of the footer*/
+footer
+{
+    word-spacing: 12px;
+    padding-top: 15px;
+    background-color: #F5F5F5;
+}
+
+.premier
+{
+    float: right;
+}
+/*end modification of the footer*/
